@@ -7,6 +7,7 @@ A project to explore the nature of artificially intelligent Oski-Tree ships.
 [story 3](stories/3.txt)
 [story 4](stories/4.txt)
 [story 5](stories/5.txt)
+[story 6](stories/6.txt)
 
 The initial prompt for all stories is:
 
